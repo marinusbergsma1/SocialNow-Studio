@@ -23,3 +23,5 @@ orientation surfaces.
 
 Do not introduce a route-specific visual language that competes with this
 system direction.
+
+- Always show a target creative or canvas completely in its true aspect ratio. Responsive scaling is allowed; cropping, stretching and viewport clipping are never allowed, for 4:5 or any other format.
